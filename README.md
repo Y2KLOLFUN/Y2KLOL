@@ -8,6 +8,8 @@
 [![Website](https://img.shields.io/badge/Website-MINECODE-blue?logo=google-chrome)](https://minecode.run/)
 [![Twitter](https://img.shields.io/badge/Twitter-MINECODE-blue?logo=twitter)](https://x.com/MINECODECHAIN).
 
+CA: Fsp1LKSzpnqgiwAiNjvRsUJRy4bSytS68YS32kCGpump
+
 🧱 MINECODE — Build Solana Like Minecraft
 
 MINECODE is an open modular framework designed to make building on Solana as intuitive and creative as playing Minecraft.
